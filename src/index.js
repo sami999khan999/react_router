@@ -8,7 +8,11 @@
 
 //--------------------------------------------------------------------------------------------------------------------------------------------//
 
-// // more ditails in ./src/App.js and ./src/index.js
+// // SPA - A Single Page Application (SPA) in React is a web application that loads a single HTML page and dynamically updates the content as the user interacts with the app. This approach provides a smoother and more responsive user experience compared to traditional multi-page applications where each interaction typically involves loading a new HTML page from the server. //
+
+//--------------------------------------------------------------------------------------------------------------------------------------------//
+
+// // useNavigate - The useNavigate hook is part of the React Router library (React Router v6 and later) and is used for programmatic navigation in a React Single Page Application (SPA). It allows you to programmatically navigate to different routes within your application without the need for traditional anchor (<a>) tags or other navigation components. //
 
 //============================================================================================================================================//
 ////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
